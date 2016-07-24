@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# Copyright (c) 2106 Ali Al-Habsi
+# Copyright (c) 2016 Ali Al-Habsi
 
 def flattenArray(nestedArray):
     newflatArray = []
